@@ -15,5 +15,24 @@ The analysis includes:
 - Effect size estimation
 
 ## Project Structure
+40Hz-Gamma-Analysis/
+│
+├── README.md
+├── requirements.txt
+├── analysis.py
+│
+├── src/
+│   ├── clarify_questions.md
+│   ├── models_circadian.py
+│   ├── models_barnes.py
+│   ├── utils.py
+│
+├── data/
+│   ├── circadian.csv
+│   ├── barnes.csv
+│
+├── figures/
+└── results/
+
 
 
